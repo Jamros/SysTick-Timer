@@ -1,2 +1,2 @@
 # SysTick-Timer
-Implement Systick Timer based on Cortex M-4 in Java language
+Implement Systick Timer based on Cortex M0 in Java language
