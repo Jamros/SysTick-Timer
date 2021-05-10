@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=CortexM0SysTickTest
+comment0.text=\r\n\ The\ test\ class\ CortexM0SysTickTest.\r\n\r\n\ @author\ \ (Kamil\ Jamros)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=CortexM0SysTickTest()
+comment1.text=\r\n\ Default\ constructor\ for\ test\ class\ CortexM0SysTickTest\r\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment3.params=
+comment3.target=void\ tearDown()
+comment3.text=\r\n\ Tears\ down\ the\ test\ fixture.\r\n\r\n\ Called\ after\ every\ test\ case\ method.\r\n
+comment4.params=
+comment4.target=void\ disable_test()
+comment5.params=
+comment5.target=void\ testReload()
+comment6.params=
+comment6.target=void\ testFlags()
+comment7.params=
+comment7.target=void\ testRVR()
+comment8.params=
+comment8.target=void\ testCVR()
+comment9.params=
+comment9.target=void\ testInt()
+numComments=10

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=PulseSource
+comment0.text=\r\n\ Kamil\ Jamros\r\n\ 20\ maj\ 2018\r\n\ Programowanie\ w\ J\u0119zyku\ Java\r\n
+comment1.params=pl
+comment1.target=void\ addActionListener(java.awt.event.ActionListener)
+comment2.params=pl
+comment2.target=void\ removeActionListener(java.awt.event.ActionListener)
+comment3.params=
+comment3.target=void\ trigger()
+comment4.params=mode
+comment4.target=void\ setMode(byte)
+comment5.params=
+comment5.target=byte\ getMode()
+comment6.params=
+comment6.target=void\ halt()
+comment7.params=ms
+comment7.target=void\ setPulseDelay(int)
+comment8.params=
+comment8.target=int\ getPulseDelay()
+comment9.params=burst
+comment9.target=void\ setPulseCount(int)
+numComments=10

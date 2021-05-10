@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=konsolowaPrezentacjaSysTicka
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ konsolowaPrezentacjaSysTicka\ here.\r\n\ \r\n\ @author\ (Kamil\ Jamros\ 226821)\r\n
+comment1.params=
+comment1.target=konsolowaPrezentacjaSysTicka()
+comment2.params=co
+comment2.target=void\ powiedzCos(java.lang.String)
+comment3.params=
+comment3.target=void\ prezentujLicznik()
+comment4.params=subject\ arg
+comment4.target=void\ update(java.util.Observable,\ java.lang.Object)
+comment5.params=arg
+comment5.target=void\ main(java.lang.String[])
+comment5.text=\r\n\ metoda\ main\ -\ klasa\ wiod\u0105ca\ aplikacji\ konsolowej\r\n
+comment6.params=y
+comment6.target=int\ sampleMethod(int)
+comment6.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\ \r\n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \r\n
+numComments=7
